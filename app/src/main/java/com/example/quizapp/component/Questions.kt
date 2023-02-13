@@ -170,7 +170,7 @@ fun QuestionDisplay(
                         .align(alignment = Alignment.CenterHorizontally),
                     shape = RoundedCornerShape(34.dp),
                     colors = ButtonDefaults.buttonColors(
-                        backgroundColor = AppColors.mLightBlue
+                        backgroundColor = Color(0xFFEBB0BD)
                     )
 
                 ) {
